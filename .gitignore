@@ -1,0 +1,13 @@
+# Environment files
+.env
+*.env
+
+# Firebase credentials
+dashboard/ServiceAccountKey.json
+
+# Virtual environment
+venv/
+env/
+
+# SQLite database
+db.sqlite3
